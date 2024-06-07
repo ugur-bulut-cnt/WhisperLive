@@ -1,2 +1,13 @@
-portaudio19-dev
 pyaudio
+faster-whisper==1.0.1
+torch
+websockets
+onnxruntime==1.17.0
+numba
+openai-whisper
+kaldialign
+soundfile
+ffmpeg-python
+scipy
+jiwer
+evaluate
