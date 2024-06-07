@@ -47,7 +47,7 @@ setup(
         "torch",
         "torchaudio",
         "websockets",
-        "onnxruntime==1.16.0",
+        "onnxruntime==1.17.0",
         "ffmpeg-python",
         "scipy",
         "websocket-client",
