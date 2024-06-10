@@ -42,8 +42,6 @@ setup(
         )
     ),
     install_requires=[
-        "portaudio"
-        "PyAudio",
         "faster-whisper==1.0.1",
         "torch",
         "torchaudio",
