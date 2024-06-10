@@ -2,7 +2,7 @@
 # install_dependencies.sh
 
 # Update package list and install PortAudio
-apt-get update && apt-get install -y portaudio19-dev
+apt-get update && apt-get install -y pyaudio && apt-get install -y portaudio19-dev
 
 # Install Python dependencies
 pip install -r requirements.txt
